@@ -1,0 +1,39 @@
+{
+  "overview": "概述",
+  "step": "步骤",
+  "registration": {
+    "registration": "注册",
+    "formCompleted": "表格已填写",
+    "depositPayment": "定金支付"
+  },
+  "documentReview": {
+    "documentReview": "文件审查",
+    "ssm": "SSM",
+    "businessLicense": "营业执照",
+    "annualFinancialStatements": "年度财务报表",
+    "letterOfAppointment": "IC 和任命书（马来西亚穆斯林雇员之一）",
+    "halalCertificate": "清真证书",
+    "mapLocation": "楼宇位置图",
+    "packagingLabel": "包装标签",
+    "antiThypoid": "抗血小板聚集注射记录",
+    "pestControlRecords": "害虫控制记录",
+    "purchaseRecords": "采购/发票记录",
+    "foodCertificate": "食品处理员课程证书",
+    "ownerIC": "Idenfic - 业主 IC 副本",
+    "bankStatement": "Idenfic - 银行对账单信头"
+  },
+  "inspection": {
+    "inspection": "审计/检查",
+    "auditCompleted": "已填写的审核表",
+    "auditPictures": "审计图片"
+  },
+  "certified": {
+    "certified": "认证",
+    "fullPayment": "全额付款",
+    "merchantQr": "商户 QR 码",
+    "certificate": "证书",
+    "verificationSticker": "房舍验证贴纸",
+    "accountRegistered": "Idenfic 账户已注册"
+  },
+  "restaurantStatus": "餐厅状态"
+}

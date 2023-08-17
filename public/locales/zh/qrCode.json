@@ -1,0 +1,19 @@
+{
+  "qr": {
+    "no": "没有",
+    "restaurantName": "餐厅名称",
+    "restaurantStatus": "餐厅状态",
+    "address": "地址",
+    "qrCode": "Qr 码",
+    "download": "下载",
+    "Approved": "批准",
+    "Rejected": "拒绝"
+  },
+  "qrStatus": {
+    "status": "现状",
+    "restaurantInfo": "餐厅信息",
+    "name": "名称",
+    "phone": "电话",
+    "address": "地址"
+  }
+}

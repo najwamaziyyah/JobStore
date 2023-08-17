@@ -1,0 +1,60 @@
+{
+  "successResetPassword": "密码重置成功!",
+  "failedResetPassword": "密码重置失败。请重试。",
+  "login": {
+    "welcome": "我们的卫生与安全标准管理系统确保安全",
+    "pleaseSignIn": "请登录您的账户",
+    "email": "电子邮件",
+    "password": "密码",
+    "forgotPassword": "忘记密码？",
+    "rememberMe": "记住我",
+    "signInButton": "登录",
+    "newOnOurPlatform": "新加入我们的平台？",
+    "registerNow": "立即注册",
+    "identifierRequired": "请输入您的电子邮件",
+    "identifierMax": "电子邮件字数不得超过 150 个字符",
+    "identifierValid": "请输入有效的电子邮件",
+    "passwordRequired": "请输入密码",
+    "loginSuccessful": "登录成功！",
+    "loginFailed": "登录失败。请重试。"
+  },
+  "register": {
+    "welcome": "我们的卫生与安全标准管理系统确保安全",
+    "registration": "注册（商人官员）",
+    "username": "用户名",
+    "email": "电子邮件",
+    "phone": "移动电话",
+    "password": "密码",
+    "passwordConfirmation": "确认密码",
+    "signUpButton": "注册",
+    "alreadyHaveAnAccount": "已有账户？",
+    "signInInstead": "改为登录",
+    "usernameRequired": "请输入您的用户名",
+    "usernameMax": "用户名最多 150 个字符",
+    "emailRequired": "请输入您的电子邮件",
+    "emailValid": "请输入有效的电子邮件",
+    "phoneRequired": "请输入您的电话号码",
+    "passwordRequired": "请输入密码",
+    "passwordMin": "密码必须至少包含 8 个字符",
+    "passwordMatches": "密码必须至少包含一个大写字母、一个小写字母和一个数字",
+    "passwordConfirmationRequired": "请确认新密码",
+    "passwordConfirmationOneOf": "密码必须匹配",
+    "registrationSuccessful": "注册成功！",
+    "registrationFailed": "注册失败。请重试。"
+  },
+  "resetPassword": {
+    "resetYourPassword": "重置密码",
+    "resetPassword": "重置密码",
+    "regainAccess": "重新访问您的账户。",
+    "password": "密码",
+    "passwordConfirmation": "密码确认",
+    "newPassword": "新密码",
+    "yup": {
+      "password": "请输入新密码",
+      "passwordConfirmation": "请确认新密码",
+      "passwordMin": "密码必须至少包含 8 个字符",
+      "passwordMatch": "密码必须至少包含一个大写字母、一个小写字母和一个数字",
+      "passwordMustMatch": "密码必须匹配"
+    }
+  }
+}

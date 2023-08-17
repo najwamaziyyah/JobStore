@@ -1,0 +1,32 @@
+{
+  "menus": {
+    "no": "没有",
+    "menuName": "菜单名称",
+    "description": "说明",
+    "action": "行动",
+    "addMenu": "添加菜单",
+    "editMenu": "编辑菜单",
+    "menu": "菜单",
+    "submit": "提交",
+    "edit": "编辑",
+    "cancel": "取消",
+    "menuList": "菜单列表",
+    "yes": "是",
+    "areYouSure": "您确定要删除此记录吗？ ",
+    "delete": "删除",
+    "menuAddedSuccessfully": "菜单添加成功！",
+    "menuUpdatedSuccessfully": "菜单更新成功！",
+    "errorOccurred": "发生错误。请稍后再试",
+    "menuDeletedSuccessfully": "成功删除菜单",
+    "failedToDeleteMenu": "删除菜单失败"
+  },
+  "validation": {
+    "name": {
+      "required": "请输入菜单名称",
+      "max": "名称最多 150 个字符"
+    },
+    "description": {
+      "max": "信息最多 300 个字符"
+    }
+  }
+}

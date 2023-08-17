@@ -1,0 +1,21 @@
+{
+  "profile": {
+    "profiles": "Butiran Akaun",
+    "profileInformation": "Maklumat Profil",
+    "updateProfile": "Kemas kini maklumat profil dan alamat e-mel akaun anda",
+    "name": "Nama Pedagang",
+    "email": "Emel",
+    "save": "Simpan",
+    "updateUserSuccessful": "Kemas kini pengguna berjaya!",
+    "updateFailed": "Kemas kini pengguna gagal. Sila cuba semula."
+  },
+  "updatePassword": {
+    "updatePasswords": "Kemas kini Kata Laluan",
+    "updatePasswordReminder": "Pastikan akaun anda menggunakan kata laluan rawak yang panjang untuk kekal selamat.",
+    "currentPassword": "Kata Laluan Semasa",
+    "newPassword": "Kata Laluan Baharu",
+    "confirmNewPassword": "Sahkan Kata Laluan Baharu",
+    "updatePasswordSuccesfully": "Kemas kini kata laluan berjaya!",
+    "updatePasswordFailed": "Kemas kini kata laluan gagal. Sila cuba semula."
+  }
+}

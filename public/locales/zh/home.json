@@ -1,0 +1,132 @@
+{
+  "landing": {
+    "title": "Muslim Choice",
+    "ensureYourFood": "确保食物清洁安全",
+    "muslimChoice": "Muslim Choice 该系统由穆斯林友好观察组织和全国消费者行动委员会合作创建，为消费者提供公认的食品安全保障。",
+    "login": "登录"
+  },
+  "mission": "使命",
+  "missionDescription": "建立一个可靠的系统，通过提供清洁、安全和方便的食品选择，在全球推广餐厅，满足消费者的需求。",
+  "vision": "愿景",
+  "visionDescription1": "为消费者提供可靠的食品选择，同时促进餐厅与社区之间的积极关系。",
+  "visionDescription2": "满足穆斯林消费者日益增长的需求，成为值得信赖的可靠食品选择来源。",
+  "objectives": {
+    "title": "目标",
+    "objective1": "提高认识",
+    "objectiveDescription1": "教育餐馆和消费者选择清洁安全食品的重要性。",
+    "objective2": "作为参考资料",
+    "objectiveDescription2": "精明客户的可靠参考。",
+    "objective3": "推广餐厅",
+    "objectiveDescription3": "在运营中保持诚信精神，确保食品的采购、处理和制作符合卫生和营养安全标准。",
+    "objective4": "改进",
+    "objectiveDescription4": "不断扩大业务，以满足穆斯林消费者日益增长的需求。"
+  },
+  "merchantPackage": {
+    "title": "商户套餐",
+    "itemsToBeReceived": "待收项目 ：",
+    "list1": "QR 码",
+    "list2": "验证贴纸",
+    "list3": "认证",
+    "list4": "承诺书",
+    "list5": "网络海报",
+    "list6": "Facebook 推广",
+    "list7": "Indenfic 注册",
+    "list8": "交流晚宴"
+  },
+  "aboutUs": {
+    "title": "Muslim Friendly Watch (MFW)",
+    "description": "穆斯林选择是由MTPN和MFW共同建立的一个系统。穆斯林友好观察（MFW）是一个进行监督的组织，以确保获得认可的商家始终保持穆斯林选择的完整性。除了考虑遵守伊斯兰教法的因素外，MFW 还强调场所/产品/服务的清洁和安全因素。以下是参与管理穆斯林之选的 MFW 官员：",
+    "monitoringOfficer": "监察干事",
+    "monitoringOfficerDescription": "监督员负责确定有潜力且符合穆斯林选择认可条件的企业。此外，还负责为 穆斯林选择 注册程序填写企业信息和文件。",
+    "auditOfficer": "审计干事",
+    "auditOfficerDescription": "审核官员负责检查已在 穆斯林的选择 注册的企业。他们根据 MFW 制定的所有标准和资格进行检查。企业是否获得批准取决于审核官员的审核结果。"
+  },
+  "businessValue": {
+    "title": "穆斯林的选择如何帮助创造商业价值？",
+    "businessValue1": "提高客户忠诚度",
+    "businessValueDescription1": "穆斯林食客可能会对满足其饮食需求的餐厅产生忠诚度。",
+    "businessValueDescription2": "餐厅可以通过顾客的再次光临、积极的口碑推荐和清真食品的保证来提高顾客的忠诚度。",
+    "businessValue2": "获得竞争优势",
+    "businessValueDescription3": "与其他餐厅相比，餐厅可以通过显示其著名的二维码获得竞争优势。",
+    "businessValueDescription4": "这对穆斯林社区来说是信任和可靠的象征，也使餐厅从竞争对手中脱颖而出。",
+    "businessValue3": "提高可信度",
+    "businessValueDescription5": "餐厅将获得更高的信誉和声誉，因为它们被认可为符合严格的评估和申请程序，以确保它们符合清真标准和准则。",
+    "businessValueDescription6": "这将向穆斯林食客保证，所提供的食品是清真食品，符合伊斯兰饮食法。",
+    "businessValue4": "足日益增长的需求",
+    "businessValueDescription7": "全球对清真食品选择和穆斯林友好餐饮体验的需求正在上升。",
+    "businessValueDescription8": "餐厅可以扩大客户群，并在寻求清真餐饮选择的穆斯林食客中占据更大的市场份额。",
+    "businessValueDescription9": "这可以帮助餐厅提高收入潜力，因为他们可以同时满足穆斯林和非穆斯林食客的需求。",
+    "businessValue5": "公众的积极看法",
+    "businessValueDescription10": "这项计划可以促进文化包容性，满足穆斯林食客的需求。",
+    "businessValueDescription11": "餐厅可以建立信任，向消费者展示自己是具有社会意识的企业。",
+    "businessValueDescription12": "这有助于表明对所有消费者的承诺，从而在穆斯林社区中形成积极的公众印象和好感。"
+  },
+  "purpose": {
+    "title": "探索穆斯林选择应用程序的目的和益处",
+    "purpose1": "吸引穆斯林游客",
+    "purpose2": "保持公信力和诚信",
+    "purpose3": "信任与保证徽章",
+    "purposeDescription1": "参与 '穆斯林之选' 认证体系的餐厅可以满足清真食品需求，获得竞争优势，吸引穆斯林游客，提升品牌形象，提高在多元文化社区中的忠诚度和美誉度。",
+    "purposeDescription2": "为确保可信度，家庭福利部通过检查、文件审查和审计对 '穆斯林的选择' 进行评估。MTPN 更新标准、评估和审计程序，以不断改进和提高系统的可信度。",
+    "purposeDescription3": "我们的标准化识别系统能让消费者轻松识别那些将食品清洁和安全放在首位的餐厅。基于特定的相关标准，它为穆斯林消费者提供了一个值得信赖的标志，确保了信任和保证。"
+  },
+  "criteria": {
+    "title": "选择穆斯林的标准",
+    "description": "在申请穆斯林选择系统的过程中，餐厅需要具备有效的卫生和食品安全管理系统。他们还需要确保餐厅成员接受过有关穆斯林选择系统的相关培训，以便很好地履行职责。",
+    "criteria1": "显示登记许可证、通知等。在食品经营场所",
+    "criteria2": "食品处理员个人卫生",
+    "criteria3": "食肆的清洁",
+    "criteria4": "食品经营场所的害虫控制",
+    "criteria5": "食品处理员培训",
+    "criteria6": "废物处理"
+  },
+  "requirement": {
+    "title": "资格要求",
+    "requirement1": "遵守当地法律",
+    "requirement2": "遵守食品卫生与安全标准",
+    "requirement3": "商业道德实践",
+    "requirement4": "专业与诚信"
+  },
+  "registeration": {
+    "title": "注册流程",
+    "registeration1": "注册",
+    "registerationDescription1": "餐厅可通过在线注册程序申请使用该系统。",
+    "registerationDescription2": "所有相关信息和文件都必须上传至系统或提交给官员（菜单、配料、供应商）。",
+    "registerationDescription3": "应提交核查证书和相关操作程序。",
+    "registeration2": "文件审查",
+    "registerationDescription4": "工作人员将检查提交的文件，以核实餐厅提供的信息。",
+    "registerationDescription5": "这是为了确保符合资格要求。",
+    "registeration3": "现场检查",
+    "registerationDescription6": "参观餐厅场所，评估食品准备区、处理流程以及整体上是否符合伊斯兰教法。",
+    "registerationDescription7": "成功入选的餐厅将获得一个二维码面板、一张 A3 证书和一张贴纸，用于在餐厅内展示并作为营销材料。",
+    "registeration4": "定期评估",
+    "registerationDescription8": "成功达到资格要求的餐厅将接受定期审核，以确保持续符合穆斯林选择标准。",
+    "registerationDescription9": "官员将定期进行监督和检查，以保持该系统的完整性和可信度。"
+  },
+  "directory": {
+    "title": "目录",
+    "listFor": "成功的穆斯林选择商户名单",
+    "search": "搜索",
+    "reset": "重置",
+    "searchCompanyName": "搜索公司名称",
+    "companyName": "公司名称",
+    "address": "地址",
+    "serialNumber": "序列号"
+  },
+  "officer": {
+    "title": "官员名单",
+    "listFor": "注册穆斯林友好监督员名单",
+    "search": "搜索",
+    "reset": "重置",
+    "searchOffiverName": "搜索官员姓名",
+    "name": "名称",
+    "membershipNo": "会员编号",
+    "phone": "电话",
+    "email": "电子邮件",
+    "photo": "照片"
+  },
+  "contactUs": {
+    "title": "联系我们",
+    "email": "电子邮件s : info@muslimchoice.org"
+  }
+}

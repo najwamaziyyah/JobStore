@@ -1,0 +1,108 @@
+{
+  "ingredientAddedSuccessfully": "Bahan berjaya ditambah",
+  "addedError": "Ralat berlaku. Sila cuba sebentar lagi",
+  "ingredientDeletedSuccessfully": "Bahan berjaya dipadamkan",
+  "deletedError": "Gagal memadamkan bahan",
+  "ingredient": {
+    "no": "Tidak",
+    "yes": "Ya",
+    "viewIngredient": "Lihat Detail Bahan",
+    "delete": "Padam",
+    "areYouSure": "Adakah anda pasti mahu memadamkan rekod ini?",
+    "ingredient": "Bahan",
+    "sourceOfIngredient": "Sumber Bahan",
+    "manufacturerName&Address": "Nama & Alamat Pengilang",
+    "halalStatus": "Status Halal",
+    "status": "Status",
+    "action": "Tindakan",
+    "view": "Lihat Bahan",
+    "addIngredient": "Tambah Bahan",
+    "chooseIngredient": "Pilih Bahan",
+    "ingredientDetails": "Butiran Bahan",
+    "ingredientList": "Senarai Bahan",
+    "expiringDate": "Tarikh Luput",
+    "jakim": "Jakim",
+    "Approved": "Diluluskan",
+    "Pending": "Pemprosesan",
+    "Rejected": "Ditolak"
+  },
+  "addIngredient": {
+    "ingredientName": "Nama Bahan (Nama Biasa)",
+    "ingredientNameplaceHolder": "Nama Bahan",
+    "scientificName": "Bahan (Nama Kimia/ Nama Saintifik/ Nama Dagangan) (pilihan)",
+    "scientificNamePlaceHolder": "Nama Saintifik",
+    "manufacturerName": "Nama Pengeluar {Pasaraya / Kedai}.",
+    "manufacturerNamePlaceHolder": "Nama Pengeluar",
+    "manufacturerAddress": "Alamat {Pasaraya / Kedai} Pengilang",
+    "manufacturerAddressPlaceHolder": "Alamat Pengilang",
+    "manufacturerCountry": "Negara Pengeluar {Pasaraya / Kedai}",
+    "halalCertificate": "Sijil Halal",
+    "certificationExpiryDate": "Tarikh Luput Sijil",
+    "ingredientCategory": "Kategori Bahan :",
+    "selectDate": "Pilih Tarikh",
+    "save": "Simpan",
+    "constant": {
+      "Animal": "Haiwan",
+      "Chemical": "Bahan Kimia",
+      "Plants": "Tumbuhan",
+      "Natural": "Semulajadi",
+      "Yes": "Ya",
+      "No": "Tidak",
+      "New Ingredient": "Bahan Baharu",
+      "Existing Ingredient": "Bahan Sedia Ada",
+      "New Supplier": "Pembekal Baru"
+    },
+    "chooseIngredient": "Pilih Bahan"
+  },
+  "commonIngredient": {
+    "listOfIngredient": "Senarai Bahan",
+    "searchProduct": "Cari Produk",
+    "search": "Cari",
+    "reset": "Set semula",
+    "no": "No",
+    "product": "Produk",
+    "name&AddressOfManufacturer": "Nama & Alamat Pengeluar",
+    "halalStatus": "Status Halal",
+    "action": "Tindakan",
+    "select": "Pilih",
+    "expiringDate": "Tarikh Luput :"
+  },
+  "ingredientDetail": {
+    "name": "Nama",
+    "scientificName": "Nama Saintifik",
+    "ingredientSource": "Sumber Bahan",
+    "manufaturerName": "Nama Pengeluar",
+    "manufacturerAddress": "Alamat Pengilang",
+    "manufacturerCountry": "Negara Pengilang",
+    "halalCertificate": "Sijil Halal",
+    "certificationExpiryDate": "Tarikh Tamat Sijil",
+    "category": "Kategori"
+  },
+  "validation": {
+    "name": {
+      "required": "Sila isikan nama bahan",
+      "max": "Panjang maksimum nama bahan adalah 150 patah perkataan"
+    },
+    "manufacturerName": {
+      "required": "Sila isikan nama pengilang",
+      "max": "Panjang maksimum nama pengilang adalah 150 patah perkataan"
+    },
+    "scientificName": {
+      "required": "Sila isikan nama saintifik bahan",
+      "max": "Panjang maksimum nama saintifik bahan adalah 150 patah perkataan"
+    },
+    "manufacturerAddress": {
+      "required": "Sila isikan alamat pengilang",
+      "max": "Panjang maksimum alamat pengilang adalah 150 patah perkataan"
+    },
+    "manufacturerCountry": {
+      "required": "Sila pilih negara pengilang bahan "
+    },
+    "certificateExpiryDate": {
+      "required": "Sila pilih tarikh tamat sijil bahan"
+    },
+    "category": {
+      "required": "Sila pilih kategori bahan"
+    }
+  }
+}

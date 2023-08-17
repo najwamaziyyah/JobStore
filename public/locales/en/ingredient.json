@@ -1,0 +1,108 @@
+{
+  "ingredientAddedSuccessfully": "Ingredient added successfully!",
+  "addedError": "Error occurred. Please try again later",
+  "ingredientDeletedSuccessfully": "Ingredient deleted successfully",
+  "deletedError": "Failed to delete ingredient",
+  "ingredient": {
+    "no": "No",
+    "yes": "Yes",
+    "viewIngredient": "View Ingredient Detail",
+    "delete": "Delete",
+    "areYouSure": "Are you sure you want to delete this record?",
+    "ingredient": "Ingredient",
+    "sourceOfIngredient": "Source of Ingredient",
+    "manufacturerName&Address": "Name & Address of Manufacturer",
+    "halalStatus": "Halal Status",
+    "status": "Status",
+    "action": "Action",
+    "view": "View Ingredient",
+    "addIngredient": "Add Ingredient",
+    "chooseIngredient": "Choose Ingredient",
+    "ingredientDetails": "Ingredient Details",
+    "ingredientList": "Ingredient List",
+    "expiringDate": "Expiring Date",
+    "jakim": "Jakim",
+    "Approved": "Approved",
+    "Pending": "Pending",
+    "Rejected": "Rejected"
+  },
+  "addIngredient": {
+    "ingredientName": "Ingredient Name (Common Name)",
+    "ingredientNameplaceHolder": "Ingredient Name",
+    "scientificName": "Ingredient (Chemical Name/ Scientific Name/ Trade Name) (optional)",
+    "scientificNamePlaceHolder": "Scientific Name",
+    "manufacturerName": " Manufacturer {Supermarket / Store} Name",
+    "manufacturerNamePlaceHolder": "Manufacturer Name",
+    "manufacturerAddress": " Manufacturer {Supermarket / Store} Address",
+    "manufacturerAddressPlaceHolder": "Manufacturer Address",
+    "manufacturerCountry": "Country of Manufacturer {Supermarket / Store}",
+    "halalCertificate": "Halal Certificate",
+    "certificationExpiryDate": "Certification Expiry Date",
+    "ingredientCategory": "Ingredient Category :",
+    "selectDate": "Select Date",
+    "save": "Save",
+    "constant": {
+      "Animal": "Animal",
+      "Chemical": "Chemical",
+      "Plants": "Plants",
+      "Natural": "Natural",
+      "Yes": "Yes",
+      "No": "No",
+      "New Ingredient": "New Ingredient",
+      "Existing Ingredient": "Existing Ingredient",
+      "New Supplier": "New Supplier"
+    },
+    "chooseIngredient": "Choose Ingredient"
+  },
+  "commonIngredient": {
+    "listOfIngredient": "List of Ingredients",
+    "searchProduct": "Search Product",
+    "search": "Search",
+    "reset": "Reset",
+    "no": "No",
+    "product": "Product",
+    "name&AddressOfManufacturer": "Name & Address of Manufacturer",
+    "halalStatus": "Halal Status",
+    "action": "Action",
+    "select": "Select",
+    "expiringDate": "Expiring Date :"
+  },
+  "ingredientDetail": {
+    "name": "Name",
+    "scientificName": "Scientific Name",
+    "ingredientSource": "Ingredient Source",
+    "manufaturerName": "Manufacturer Name",
+    "manufacturerAddress": "Manufacturer Address",
+    "manufacturerCountry": "Manufacturer Country",
+    "halalCertificate": "Halal Certificate",
+    "certificationExpiryDate": "Certificate Expiry Date",
+    "category": "Category"
+  },
+  "validation": {
+    "name": {
+      "required": "Please enter the ingredient name",
+      "max": "Ingredient name must be at most 150 characters"
+    },
+    "manufacturerName": {
+      "required": "Please enter the manufacturer name",
+      "max": "Manufacturer name must be at most 150 characters"
+    },
+    "scientificName": {
+      "required": "Please enter the scientific name",
+      "max": "Scientific name must be at most 150 characters"
+    },
+    "manufacturerAddress": {
+      "required": "Please enter the manufacturer address",
+      "max": "Manufacturer address must be at most 150 characters"
+    },
+    "manufacturerCountry": {
+      "required": "Please select the ingredient manufacturer country"
+    },
+    "certificateExpiryDate": {
+      "required": "Please select the ingredient certificate expiry date"
+    },
+    "category": {
+      "required": "Please select the ingredient category"
+    }
+  }
+}

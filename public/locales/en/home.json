@@ -1,0 +1,132 @@
+{
+  "landing": {
+    "title": "Muslim Choice",
+    "ensureYourFood": "Ensure Your Food Are Clean and Safe",
+    "muslimChoice": "Muslim Choice, a system created through collaboration between Muslim Friendly Watch and the National Consumer Action Council, guarantees the safety of recognized food types for consumers.",
+    "login": "Login"
+  },
+  "mission": "Mission",
+  "missionDescription": "To establish a reliable system that promotes restaurants in the world and meets the needs of consumers by providing clean, safe and accessible food options.",
+  "vision": "Vision",
+  "visionDescription1": "To provide reliable food options tol consumers while fostering positive relationships between restaurants and the community.",
+  "visionDescription2": "To meet the growing needs of Muslim consumers and serve as a trusted source for reliable food choices.",
+  "objectives": {
+    "title": "Objectives",
+    "objective1": "Raising Awareness",
+    "objectiveDescription1": "Educate restaurants and consumers about the importance of clean and safe food choices.",
+    "objective2": "As A Reference Source",
+    "objectiveDescription2": "A reliable reference for savvy customers.",
+    "objective3": "Promoting Restaurants",
+    "objectiveDescription3": "To maintain a spirit of integrity in their operations, ensuring that food options are sourced, handled and prepared in accordance with hygiene and nutritional safety standards.",
+    "objective4": "Improvement",
+    "objectiveDescription4": "Continuous expansion efforts aimed at meeting the growing needs of Muslims consumers."
+  },
+  "merchantPackage": {
+    "title": "Merchant Package",
+    "itemsToBeReceived": "Items to be received :",
+    "list1": "QR Code",
+    "list2": "Verification Sticker",
+    "list3": "Certification",
+    "list4": "Undertaking Letter",
+    "list5": "Web Poster",
+    "list6": "Facebook Promotion",
+    "list7": "Indenfic Registration",
+    "list8": "Networking Dinner"
+  },
+  "aboutUs": {
+    "title": "Muslim Friendly Watch (MFW)",
+    "description": "Muslim Choice is a system established by MTPN together with MFW. Muslim Friendly Watch (MFW) is an organization that conducts monitoring to ensure the integrity of Muslim Choice is maintained at all times for merchants who have obtained recognition. MFW also emphasizes the cleanliness and safety factors of the premises/product/services in addition to taking into account the Sharia compliance factor. The following are the MFW officers involved in running this Muslim Choice :",
+    "monitoringOfficer": "Monitoring Officer",
+    "monitoringOfficerDescription": "The monitoring officer is responsible for identifying businesses that have potential and are eligible for Muslim Choice recognition. In addition, responsible for completing the business information and documents for the Muslim Choice registration process.",
+    "auditOfficer": "Audit Officer",
+    "auditOfficerDescription": "Audit officers are responsible for checking businesses that have registered with Muslim Choice. They make an inspection that takes into account all the criteria and qualifications that have been set by MFW. The approval of the business depends on the results of the officer’s audit."
+  },
+  "businessValue": {
+    "title": "How Does Muslim Choice Help Create Business Value?",
+    "businessValue1": "Improving Customer Loyalty",
+    "businessValueDescription1": "Muslim diners are likely to develop loyalty toward restaurants that cater to their dietary needs.",
+    "businessValueDescription2": "Restaurants can improve their customer loyalty through repeat visits, positive mouth referrals and assurance of halal food options.",
+    "businessValue2": "Gaining Competitive Advantage",
+    "businessValueDescription3": "Restaurants will gain a competitive advantage over other restaurants by being able to display their prestigious QR code.",
+    "businessValueDescription4": "This serves as a symbol of trust and reliability to the Muslim community and sets the restaurant apart from its competitors.",
+    "businessValue3": "Enhanced Credibility",
+    "businessValueDescription5": "Restaurants will gain enhanced credibility and reputation as they are recognized as meeting the rigorous evaluation and application process to ensure they meet the Halal standard and guidelines.",
+    "businessValueDescription6": "This will provide assurance to Muslim diners that the food served is Halal and compliant with Islamic dietary laws.",
+    "businessValue4": "Meeting the Growing Demand",
+    "businessValueDescription7": "Demand for halal food options and Muslim-friendly dining experiences is on the rise globally.",
+    "businessValueDescription8": "Restaurants can expand their customer base and capture a larger market share of Muslim diners who seek for halal dining options.",
+    "businessValueDescription9": "This can help restaurants increase their revenue potential as they can cater to both Muslim and Non-Muslim diners.",
+    "businessValue5": "Positive Public Perception",
+    "businessValueDescription10": "This program can promote cultural inclusivity in accommodating to the needs of Muslim diners.",
+    "businessValueDescription11": "Restaurants can build trust and showcase that they are socially-conscious establishments to the consumers.",
+    "businessValueDescription12": "This can help show a commitment to all consumers which results to a positive public perception and goodwill among the Muslim community."
+  },
+  "purpose": {
+    "title": "Explore the Purpose and Benefits of Muslim Choice App",
+    "purpose1": "Attracts Muslim Tourists",
+    "purpose2": "Maintaining Credibility & Integrity",
+    "purpose3": "Emblem of Trust & Guarantee",
+    "purposeDescription1": "Participating in the 'Muslim Choice' recognition system benefits restaurants by meeting halal food demand, gaining a competitive edge, attracting Muslim tourists, and enhancing brand image, increasing loyalty and reputation within the multicultural community.",
+    "purposeDescription2": "To ensure credibility, MFW conducts evaluations for 'Muslim Choice' through inspections, document reviews, and audits. MTPN updates criteria, assessments, and audit procedures for continuous improvement and system credibility.",
+    "purposeDescription3": "Our standardized recognition enables consumers to easily identify restaurants prioritizing cleanliness and safety in their food offerings. Based on specific relevant criteria, it provides a trusted symbol for Muslim consumers, ensuring trust and assurance."
+  },
+  "criteria": {
+    "title": "Criteria of Muslim Choice Selection",
+    "description": "In the process of applying for Muslim Choice system, the restaurant needs to have an effective hygiene and food safety management system. They also need to ensure that their restaurant members have received relevant training on the muslim choice system in order to carry out responsibilities well.",
+    "criteria1": "Showing Registration License, Notice, ETC. In Food Premises",
+    "criteria2": "Food Handler Personal Hygiene",
+    "criteria3": "Cleanliness of Food Premises",
+    "criteria4": "Pest Control in Food Premise",
+    "criteria5": "Food Handler Training",
+    "criteria6": "Waste Disposal"
+  },
+  "requirement": {
+    "title": "Eligibility Requirements",
+    "requirement1": "Compliance With Local Laws",
+    "requirement2": "Compliance with Food Hygiene and Safety Standards",
+    "requirement3": "Business Ethics Practices",
+    "requirement4": "Professionalism and Integrity"
+  },
+  "registeration": {
+    "title": "Registration Process",
+    "registeration1": "Registeration",
+    "registerationDescription1": "Restaurants can apply for this system through an online registration process.",
+    "registerationDescription2": "All relevant information and documents must be uploaded in the system or submitted to the officer, (Menus, Ingredients, Supplier).",
+    "registerationDescription3": "Verification certificates and related operating procedures should be submitted.",
+    "registeration2": "Document Review",
+    "registerationDescription4": "Officers will check the documents submitted to verify the information provided by the restaurant.",
+    "registerationDescription5": "This is to ensure compliance with eligibility requirements.",
+    "registeration3": "Inspection On The Premises",
+    "registerationDescription6": "Visits to restaurant premises to assess food preparation areas, handling processes and overall compliance with sharia law.",
+    "registerationDescription7": "Successful restaurants will receive a QR code panel, an A3 certificate and a sticker to display in the restaurant and as their marketing material.",
+    "registeration4": "Periodic Assessment",
+    "registerationDescription8": "Restaurants that successfully meet the eligibility requirements will be subject to periodic audits to ensure continued compliance with Muslim Choice standards.",
+    "registerationDescription9": "Periodic Monitoring and inspection will be done by officers to maintain the integrity and credibility of this system."
+  },
+  "directory": {
+    "title": "Directory",
+    "listFor": "List for Successful Muslim Choice Merchants",
+    "search": "Search",
+    "reset": "Reset",
+    "searchCompanyName": "Search company name",
+    "companyName": "Company Name",
+    "address": "Address",
+    "serialNumber": "Serial Number"
+  },
+  "officer": {
+    "title": "Officer List",
+    "listFor": "List for Registered Muslim Friendly Watch Officers",
+    "search": "Search",
+    "reset": "Reset",
+    "searchOffiverName": "Search officer name",
+    "name": "Name",
+    "membershipNo": "Membership No.",
+    "phone": "Phone",
+    "email": "Email",
+    "photo": "Photo"
+  },
+  "contactUs": {
+    "title": "Contact Us",
+    "email": "Email : info@muslimchoice.org"
+  }
+}
