@@ -1,0 +1,60 @@
+{
+  "successResetPassword": "Password has been reset successfully!",
+  "failedResetPassword": "Password reset failed. Please try again.",
+  "login": {
+    "welcome": "Stay Safe With Our Hygiene & Safety Standards Management System",
+    "pleaseSignIn": "Please sign-in to your account",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot Password?",
+    "rememberMe": "Remember Me",
+    "signInButton": "Sign In",
+    "newOnOurPlatform": "New on our platform?",
+    "registerNow": "Register Now",
+    "identifierRequired": "Please enter your email",
+    "identifierMax": "Email must be at most 150 characters",
+    "identifierValid": "Please enter a valid email",
+    "passwordRequired": "Please enter your password",
+    "loginSuccessful": "Login successful!",
+    "loginFailed": "Login failed. Please try again."
+  },
+  "register": {
+    "welcome": "Stay Safe With Our Hygiene & Safety Standards Management System",
+    "registration": "Registration (Merchant Officer)",
+    "username": "Username",
+    "email": "Email",
+    "phone": "Mobile",
+    "password": "Password",
+    "passwordConfirmation": "Confirm Password",
+    "signUpButton": "Sign up",
+    "alreadyHaveAnAccount": "Already have an account?",
+    "signInInstead": "Sign in instead",
+    "usernameRequired": "Please enter your username",
+    "usernameMax": "Username must be at most 150 characters",
+    "emailRequired": "Please enter your email",
+    "emailValid": "Please enter a valid email",
+    "phoneRequired": "Please enter your phone number",
+    "passwordRequired": "Please enter your password",
+    "passwordMin": "Password must be at least 8 characters",
+    "passwordMatches": "Password must contain at least one uppercase letter, one lowercase letter, and one number",
+    "passwordConfirmationRequired": "Please confirm your new password",
+    "passwordConfirmationOneOf": "Passwords must match",
+    "registrationSuccessful": "Registration successful!",
+    "registrationFailed": "Registration failed. Please try again."
+  },
+  "resetPassword": {
+    "resetYourPassword": "Reset Your Password",
+    "resetPassword": "Reset Password",
+    "regainAccess": "Regain Access to Your Account.",
+    "password": "Password",
+    "passwordConfirmation": "Password Confirmation",
+    "newPassword": "New Password",
+    "yup": {
+      "password": "Please enter a new password",
+      "passwordConfirmation": "Please confirm your new password",
+      "passwordMin": "Password must be at least 8 characters",
+      "passwordMatch": "Password must contain at least one uppercase letter, one lowercase letter, and one number",
+      "passwordMustMatch": "Password must match"
+    }
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "landing": {
+    "title": "Muslim Choice",
+    "ensureYourFood": "Pastikan Makanan Anda Bersih dan Selamat",
+    "muslimChoice": "Muslim Choice, sistem yang dicipta melalui kerjasama antara Muslim Friendly Watch dan Majlis Tindakan Pengguna Negara, menjamin keselamatan jenis makanan yang diiktiraf untuk pengguna.",
+    "login": "Log masuk"
+  },
+  "mission": "Misi",
+  "missionDescription": "Untuk mewujudkan sistem yang boleh dipercayai yang mempromosikan restoran di dunia dan memenuhi keperluan pengguna dengan menyediakan pilihan makanan yang bersih, selamat dan mudah diakses.",
+  "vision": "Visi",
+  "visionDescription1": "Untuk menyediakan pilihan makanan yang boleh dipercayai kepada pengguna sambil menjalin hubungan positif antara restoran dan masyarakat.",
+  "visionDescription2": "Untuk memenuhi keperluan pengguna Muslim yang semakin meningkat dan berfungsi sebagai sumber yang dipercayai untuk pilihan makanan yang boleh dipercayai.",
+  "objectives": {
+    "title": "Objektif",
+    "objective1": "Meningkatkan Kesedaran",
+    "objectiveDescription1": "Mendidik restoran dan pengguna tentang pentingnya pilihan makanan yang bersih dan selamat.",
+    "objective2": "Sebagai Sumber Rujukan",
+    "objectiveDescription2": "Rujukan yang boleh dipercayai untuk pelanggan yang arif.",
+    "objective3": "Mempromosikan Restoran",
+    "objectiveDescription3": "Untuk mengekalkan semangat integriti dalam operasi mereka, memastikan bahawa pilihan makanan bersumber, dikendalikan dan disediakan mengikut piawaian kebersihan dan keselamatan pemakanan.",
+    "objective4": "Penambahbaikan",
+    "objectiveDescription4": "Usaha pengembangan berterusan yang bertujuan memenuhi keperluan pengguna Muslim yang semakin meningkat."
+  },
+  "merchantPackage": {
+    "title": "Pakej Pedagang",
+    "itemsToBeReceived": "Item yang akan diterima :",
+    "list1": "Kod QR",
+    "list2": "Pelekat Pengesahan",
+    "list3": "Pensijilan",
+    "list4": "Surat Akujanji",
+    "list5": "Poster Web",
+    "list6": "Promosi Facebook",
+    "list7": "Pendaftaran Indenfic",
+    "list8": "Makan Malam Rangkaian"
+  },
+  "aboutUs": {
+    "title": "Muslim Friendly Watch (MFW)",
+    "description": "Muslim Choice adalah sistem yang dibentuk oleh MTPN bersama dengan MFW. Muslim Friendly Watch ( MFW ) adalah sebuah organisasi yang menjalankan pemantauan bagi memastikan integriti Muslim Choice dijaga sepanjang masa untuk pedagang yang telah mendapat pengiktirafan. MFW juga menekankan faktor kebersihan dan keselamatan premis / produk / perkhidmatan selain mengambil kira faktor pematuhan Syariah. Berikut adalah pegawai MFW yang terlibat dalam menjalankan Muslim Choice ini :",
+    "monitoringOfficer": "Pegawai Pemantau",
+    "monitoringOfficerDescription": "Pegawai pemantau bertanggungjawab untuk mengenal pasti perniagaan yang berpotensi dan layak mendapat pengiktirafan Muslim Choice. Di samping itu, bertanggungjawab untuk melengkapkan maklumat perniagaan dan dokumen untuk proses pendaftaran Muslim Choice.",
+    "auditOfficer": "Pegawai Audit",
+    "auditOfficerDescription": "Pegawai audit bertanggungjawab untuk memeriksa perniagaan yang telah mendaftar dengan Muslim Choice. Mereka membuat pemeriksaan yang mempertimbangkan semua kriteria dan kelayakan yang telah ditetapkan oleh MFW. Kelulusan perniagaan bergantung pada hasil audit pegawai."
+  },
+  "businessValue": {
+    "title": "Bagaimana Muslim Choice Membantu Membuat Nilai Perniagaan?",
+    "businessValue1": "Meningkatkan Kesetiaan Pelanggan",
+    "businessValueDescription1": "Pelanggan Muslim cenderung membina kesetiaan terhadap restoran yang memenuhi keperluan makanan mereka.",
+    "businessValueDescription2": "Restoran dapat meningkatkan kesetiaan pelanggan mereka melalui lawatan berulang, rujukan mulut positif dan jaminan pilihan makanan halal.",
+    "businessValue2": "Mendapat Kelebihan Kompetitif",
+    "businessValueDescription3": "Restoran akan mendapat kelebihan daya saing berbanding restoran lain dengan dapat memaparkan kod QR mereka yang berprestij.",
+    "businessValueDescription4": "Ini berfungsi sebagai simbol kepercayaan dan kebolehpercayaan kepada masyarakat Islam dan menjadikan restoran itu terpisah dari pesaingnya.",
+    "businessValue3": "Kredibiliti Ditingkatkan",
+    "businessValueDescription5": "Restoran akan mendapat kredibiliti dan reputasi yang lebih baik kerana mereka diiktiraf memenuhi proses penilaian dan permohonan yang ketat untuk memastikan mereka memenuhi piawaian dan garis panduan Halal.",
+    "businessValueDescription6": "Ini akan memberi jaminan kepada pengunjung Muslim bahawa makanan yang disajikan adalah Halal dan mematuhi undang-undang diet Islam.",
+    "businessValue4": "Memenuhi Permintaan yang Berkembang",
+    "businessValueDescription7": "Permintaan untuk pilihan makanan halal dan pengalaman menjamu selera yang mesra Muslim meningkat secara global.",
+    "businessValueDescription8": "Restoran dapat mengembangkan pangkalan pelanggan mereka dan menguasai bahagian pasaran yang lebih besar daripada pengunjung Muslim yang mencari pilihan tempat makan halal.",
+    "businessValueDescription9": "Ini dapat membantu restoran meningkatkan potensi pendapatan mereka kerana mereka dapat memenuhi keperluan pengunjung Muslim dan bukan Muslim.",
+    "businessValue5": "Persepsi Awam Positif",
+    "businessValueDescription10": "Program ini dapat mempromosikan inklusiviti budaya dalam memenuhi keperluan pengunjung Muslim.",
+    "businessValueDescription11": "Restoran dapat membina kepercayaan dan menunjukkan bahawa mereka adalah pertubuhan yang sedar akan sosial kepada pengguna.",
+    "businessValueDescription12": "Ini dapat membantu menunjukkan komitmen kepada semua pengguna yang menghasilkan persepsi dan muhibah masyarakat yang positif di kalangan masyarakat Islam."
+  },
+  "purpose": {
+    "title": "Terokai Tujuan dan Faedah Aplikasi Muslim Choice",
+    "purpose1": "Menarik Pelancong Muslim",
+    "purpose2": "Mengekalkan Kredibiliti & Integriti",
+    "purpose3": "Lambang Amanah & Jaminan",
+    "purposeDescription1": "Menyertai sistem pengiktirafan 'Muslim Choice' memberi manfaat kepada restoran dengan memenuhi permintaan makanan halal, memperoleh kelebihan daya saing, menarik pelancong Muslim, dan meningkatkan imej jenama, meningkatkan kesetiaan dan reputasi dalam masyarakat berbilang budaya.",
+    "purposeDescription2": "Untuk memastikan kredibiliti, MFW menjalankan penilaian untuk 'Muslim Choice' melalui pemeriksaan, semakan dokumen, dan audit. MTPN mengemas kini kriteria, penilaian dan prosedur audit untuk penambahbaikan berterusan dan kredibiliti sistem.",
+    "purposeDescription3": "Pengiktirafan standard kami membolehkan pengguna mengenal pasti restoran yang mengutamakan kebersihan dan keselamatan dengan mudah dalam penawaran makanan mereka. Berdasarkan kriteria tertentu yang relevan, ia menyediakan simbol yang dipercayai untuk pengguna Islam, memastikan kepercayaan dan jaminan."
+  },
+  "criteria": {
+    "title": "Kriteria Pemilihan Muslim Choice",
+    "description": "Dalam proses memohon sistem 'Muslim Choice', restoran tersebut perlu mempunyai sistem pengurusan kebersihan dan keselamatan makanan yang berkesan. Mereka juga perlu memastikan ahli restoran mereka telah mendapat latihan berkaitan sistem pilihan muslim agar dapat menjalankan tanggungjawab dengan baik.",
+    "criteria1": "Menunjukkan Lesen Pendaftaran, Notis, DLL. Di Premis Makanan",
+    "criteria2": "Kebersihan Diri Pengendali Makanan",
+    "criteria3": "Kebersihan Premis Makanan",
+    "criteria4": "Kawalan Perosak di Premis Makanan",
+    "criteria5": "Latihan Pengendali Makanan",
+    "criteria6": "Pelupusan sisa"
+  },
+  "requirement": {
+    "title": "Syarat Kelayakan",
+    "requirement1": "Mematuhi Undang-undang Tempatan",
+    "requirement2": "Mematuhi Piawaian Kebersihan dan Keselamatan Makanan",
+    "requirement3": "Amalan Etika Perniagaan",
+    "requirement4": "Profesionalisme dan Integriti"
+  },
+  "registeration": {
+    "title": "Proses Pendaftaran",
+    "registeration1": "Pendaftaran",
+    "registerationDescription1": "Restoran boleh memohon sistem ini melalui proses pendaftaran dalam talian.",
+    "registerationDescription2": "Semua maklumat dan dokumen yang berkaitan hendaklah dimuat naik dalam sistem atau diserahkan kepada pegawai, (Menu, Bahan, Pembekal).",
+    "registerationDescription3": "Sijil pengesahan dan prosedur operasi yang berkaitan hendaklah dikemukakan.",
+    "registeration2": "Semakan Dokumen",
+    "registerationDescription4": "Pegawai akan menyemak dokumen yang diserahkan untuk mengesahkan maklumat yang diberikan oleh restoran.",
+    "registerationDescription5": "Ini bagi memastikan pematuhan syarat kelayakan.",
+    "registeration3": "Pemeriksaan Di Premis",
+    "registerationDescription6": "Lawatan ke premis restoran untuk menilai kawasan penyediaan makanan, proses pengendalian dan pematuhan keseluruhan undang-undang syariah.",
+    "registerationDescription7": "Restoran yang berjaya akan menerima panel kod QR, sijil A3 dan pelekat untuk dipaparkan di restoran dan sebagai bahan pemasaran mereka.",
+    "registeration4": "Penilaian Berkala",
+    "registerationDescription8": "Restoran yang berjaya memenuhi syarat kelayakan akan tertakluk kepada audit berkala untuk memastikan pematuhan berterusan dengan piawaian 'Muslim Choice'.",
+    "registerationDescription9": "Pemantauan dan pemeriksaan berkala akan dilakukan oleh pegawai bagi menjaga integriti dan kredibiliti sistem ini."
+  },
+  "directory": {
+    "title": "Direktori",
+    "listFor": "Senaraikan Pedagang Muslim Choice yang Berjaya",
+    "search": "Cari",
+    "reset": "Set semula",
+    "searchCompanyName": "Cari nama syarikat",
+    "companyName": "Nama Syarikat",
+    "address": "Alamat",
+    "serialNumber": "Nombor Siri"
+  },
+  "officer": {
+    "title": "Senarai Pegawai",
+    "listFor": "Senarai Pegawai Muslim Friendly Watch Berdaftar",
+    "search": "Cari",
+    "reset": "Set semula",
+    "searchOffiverName": "Cari nama pegawai",
+    "name": "Nama",
+    "membershipNo": "No. Keahlian",
+    "phone": "Telefon",
+    "email": "Emel",
+    "photo": "Gambar"
+  },
+  "contactUs": {
+    "title": "Hubungi Kami",
+    "email": "Emel : info@muslimchoice.org"
+  }
+}

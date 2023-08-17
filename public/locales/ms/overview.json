@@ -1,0 +1,39 @@
+{
+  "overview": "Ringkasan",
+  "step": "Langkah",
+  "registration": {
+    "registration": "Pendaftaran",
+    "formCompleted": "Borang Telah Dilengkapkan",
+    "depositPayment": "Bayaran Deposit"
+  },
+  "documentReview": {
+    "documentReview": "Semakan Dokumen",
+    "ssm": "SSM",
+    "businessLicense": "Lesen Perniagaan",
+    "annualFinancialStatements": "Penyata Kewangan Tahunan",
+    "letterOfAppointment": "IC dan Surat Perlantikan (Salah seorang pekerja Malaysia, yang beragama Islam)",
+    "halalCertificate": "Sijil Halal",
+    "mapLocation": "Peta Lokasi ke Premis",
+    "packagingLabel": "Label Pembungkusan",
+    "antiThypoid": "Rekod Suntikan Anti-Typhoid",
+    "pestControlRecords": "Rekod Kawalan Perosak",
+    "purchaseRecords": "Rekod Pembelian / Invois",
+    "foodCertificate": "Sijil Kursus Pengendali Makanan",
+    "ownerIC": "Idenfic - Salinan Kad Pengenalan Pemilik",
+    "bankStatement": "Idenfic - Kepala Surat Penyata Bank"
+  },
+  "inspection": {
+    "inspection": "Audit / Pemeriksaan",
+    "auditCompleted": "Borang Audit Telah Dilengkapkan",
+    "auditPictures": "Gambar-gambar Audit"
+  },
+  "certified": {
+    "certified": "Bersijil",
+    "fullPayment": "Bayaran Penuh",
+    "merchantQr": "Kod QR Peniaga",
+    "certificate": "Sijil",
+    "verificationSticker": "Stiker Pengesahan Premis",
+    "accountRegistered": "Idenfic Akaun Didaftarkan"
+  },
+  "restaurantStatus": "Status Restoran"
+}

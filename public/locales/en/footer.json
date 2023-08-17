@@ -1,0 +1,15 @@
+{
+  "quickLink": "Quick Link",
+  "getInTouch": "Get In Touch",
+  "address": "Address",
+  "links": {
+    "home": "Home",
+    "objective": "Objective",
+    "purpose": "Purpose & Benefits",
+    "aboutUs": "About Us",
+    "contactUs": "Contact Us",
+    "directory": "Directory",
+    "officerList": "Officer List"
+  },
+  "followMe": "Follow Me"
+}

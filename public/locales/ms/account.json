@@ -1,0 +1,60 @@
+{
+  "successResetPassword": "Kata laluan telah berjaya ditetapkan semula!",
+  "failedResetPassword": "Tetapan semula kata laluan gagal. Sila cuba lagi.",
+  "login": {
+    "welcome": "Kekal Selamat Dengan Sistem Pengurusan Piawaian Kebersihan & Keselamatan Kami",
+    "pleaseSignIn": "Sila log masuk ke akaun anda",
+    "email": "Emel",
+    "password": "Kata Laluan",
+    "forgotPassword": "Lupa Kata Laluan?",
+    "rememberMe": "Ingatlah saya",
+    "signInButton": "Masuk",
+    "newOnOurPlatform": "Baru di platform kami?",
+    "registerNow": "Daftar sekarang",
+    "identifierRequired": "Sila masukkan emel anda",
+    "identifierMax": "Panjang maksimum emel adalah 150 patah perkataan",
+    "identifierValid": "Sila masukkan emel yang sah",
+    "passwordRequired": "Sila masukkan kata laluan anda",
+    "loginSuccessful": "Log masuk berjaya!",
+    "loginFailed": "Log masuk gagal. Sila cuba semula."
+  },
+  "register": {
+    "welcome": "Kekal Selamat Dengan Sistem Pengurusan Piawaian Kebersihan & Keselamatan Kami",
+    "registration": "Pendaftaran (Pegawai Pedagang)",
+    "username": "Nama pengguna",
+    "email": "Emel",
+    "phone": "Telefon",
+    "password": "Kata Laluan",
+    "passwordConfirmation": "Sahkan Kata Laluan",
+    "signUpButton": "Daftar",
+    "alreadyHaveAnAccount": "Sudah mempunyai akaun?",
+    "signInInstead": "Log masuk sebaliknya",
+    "usernameRequired": "Sila masukkan nama pengguna anda",
+    "usernameMax": "Panjang maksimum nama pengguna adalah 150 patah perkataan",
+    "emailRequired": "Sila masukkan emel anda",
+    "emailValid": "Sila masukkan emel yang sah",
+    "phoneRequired": "Sila masukkan nombor telefon anda",
+    "passwordRequired": "Sila masukkan kata laluan anda",
+    "passwordMin": "Kata laluan mestilah sekurang-kurangnya 8 patah perkataan",
+    "passwordMatches": "Kata laluan mesti mengandungi sekurang-kurangnya satu huruf besar, satu huruf kecil, dan satu nombor",
+    "passwordConfirmationRequired": "Sila sahkan kata laluan baru anda",
+    "passwordConfirmationOneOf": "Kata laluan mesti sepadan",
+    "registrationSuccessful": "Pendaftaran berjaya!",
+    "registrationFailed": "Pendaftaran gagal. Sila cuba semula."
+  },
+  "resetPassword": {
+    "resetYourPassword": "Tetapkan Semula Kata Laluan Anda",
+    "resetPassword": "Tetapkan Semula Kata Laluan",
+    "regainAccess": "Dapatkan Semula Akses kepada Akaun Anda.",
+    "password": "Kata laluan",
+    "passwordConfirmation": "Pengesahan kata laluan",
+    "newPassword": "Kata laluan baharu",
+    "yup": {
+      "password": "Sila masukkan kata laluan baharu",
+      "passwordConfirmation": "Sila sahkan kata laluan baharu anda",
+      "passwordMin": "Kata laluan mestilah sekurang-kurangnya 8 aksara",
+      "passwordMatch": "Kata laluan mesti mengandungi sekurang-kurangnya satu huruf besar, satu huruf kecil dan satu nombor",
+      "passwordMustMatch": "Kata laluan mesti sepadan"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "overview": "Overview",
+  "step": "Step",
+  "registration": {
+    "registration": "Registration",
+    "formCompleted": "Form Completed",
+    "depositPayment": "Deposit Payment"
+  },
+  "documentReview": {
+    "documentReview": "Document Review",
+    "ssm": "SSM",
+    "businessLicense": "Business License",
+    "annualFinancialStatements": "Annual Financial Statements",
+    "letterOfAppointment": "IC and Letter of appointment (one of Malaysian, muslim employees)",
+    "halalCertificate": "Halal Certificate",
+    "mapLocation": "Location Map to the premise",
+    "packagingLabel": "Packaging Label",
+    "antiThypoid": "Anti-Thypoid Injection Records",
+    "pestControlRecords": "Pest Control Records",
+    "purchaseRecords": "Purchase / Invoice Records",
+    "foodCertificate": "Food Handler Course Certificate",
+    "ownerIC": "Idenfic - Copy of Owner IC",
+    "bankStatement": "Idenfic - Letterhead of Bank Statement"
+  },
+  "inspection": {
+    "inspection": "Audit / Inspection",
+    "auditCompleted": "Audit Form Completed",
+    "auditPictures": "Audit Pictures"
+  },
+  "certified": {
+    "certified": "Certified",
+    "fullPayment": "Full Payment",
+    "merchantQr": "Merchant QR Code",
+    "certificate": "Certificate",
+    "verificationSticker": "Premise Verification Sticker",
+    "accountRegistered": "Idenfic Account Registered"
+  },
+  "restaurantStatus": "Restaurant Status"
+}

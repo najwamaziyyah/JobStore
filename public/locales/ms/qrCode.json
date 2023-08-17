@@ -1,0 +1,19 @@
+{
+  "qr": {
+    "no": "No",
+    "restaurantName": "Nama Restoran",
+    "restaurantStatus": "Status Restoran",
+    "address": "Alamat",
+    "qrCode": "Kod QR",
+    "download": "Muat Turun",
+    "Approved": "Diluluskan",
+    "Rejected": "Ditolak"
+  },
+  "qrStatus": {
+    "status": "Status",
+    "restaurantInfo": "Maklumat restoran",
+    "name": "Nama",
+    "phone": "Telefon",
+    "address": "Alamat"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "qr": {
+    "no": "No",
+    "restaurantName": "Restaurant Name",
+    "restaurantStatus": "Restaurant Status",
+    "address": "Address",
+    "qrCode": "Qr Code",
+    "download": "Download",
+    "Approved": "Approved",
+    "Rejected": "Rejected"
+  },
+  "qrStatus": {
+    "status": "Status",
+    "restaurantInfo": "Restaurant info",
+    "name": "Name",
+    "phone": "Phone",
+    "address": "Address"
+  }
+}

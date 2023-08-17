@@ -1,0 +1,32 @@
+{
+  "menus": {
+    "no": "No",
+    "menuName": "Menu Name",
+    "description": "Description",
+    "action": "Action",
+    "addMenu": "Add Menu",
+    "editMenu": "Edit Menu",
+    "menu": "Menu",
+    "submit": "Submit",
+    "edit": "Edit",
+    "cancel": "Cancel",
+    "menuList": "Menu List",
+    "yes": "Yes",
+    "areYouSure": "Are you sure you want to delete this record?",
+    "delete": "Delete",
+    "menuAddedSuccessfully": "Menu added successfully!",
+    "menuUpdatedSuccessfully": "Menu updated successfully!",
+    "errorOccurred": "Error occurred. Please try again later",
+    "menuDeletedSuccessfully": "Menu deleted successfully",
+    "failedToDeleteMenu": "Failed to delete menu"
+  },
+  "validation": {
+    "name": {
+      "required": "Please enter the menu name",
+      "max": "Name must be at most 150 characters"
+    },
+    "description": {
+      "max": "Message must be at most 300 characters"
+    }
+  }
+}

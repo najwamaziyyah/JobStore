@@ -1,0 +1,108 @@
+{
+  "ingredientAddedSuccessfully": "成功添加成分！",
+  "addedError": "发生错误。请稍后再试",
+  "ingredientDeletedSuccessfully": "成功删除成分",
+  "deletedError": "删除成分失败",
+  "ingredient": {
+    "no": "没有",
+    "yes": "是",
+    "viewIngredient": "查看成分详情",
+    "delete": "删除",
+    "areYouSure": "您确定要删除此记录吗？",
+    "ingredient": "成分",
+    "sourceOfIngredient": "成分来源",
+    "manufacturerName&Address": "制造商名称和地址",
+    "halalStatus": "清真身份",
+    "status": "现状",
+    "action": "行动",
+    "view": "查看成分",
+    "addIngredient": "添加成分",
+    "chooseIngredient": "选择成分",
+    "ingredientDetails": "成分详情",
+    "ingredientList": "成分表",
+    "expiringDate": "到期日期",
+    "jakim": "Jakim",
+    "Approved": "批准",
+    "Pending": "待定",
+    "Rejected": "拒绝"
+  },
+  "addIngredient": {
+    "ingredientName": "成分名称（通用名称）",
+    "ingredientNameplaceHolder": "成分名称",
+    "scientificName": "成分（化学名/学名/商品名）（可选）",
+    "scientificNamePlaceHolder": "学名",
+    "manufacturerName": "制造商 {超市/商店}名称",
+    "manufacturerNamePlaceHolder": "制造商名称",
+    "manufacturerAddress": "制造商 {超市/商店}地址",
+    "manufacturerAddressPlaceHolder": "制造商地址",
+    "manufacturerCountry": "生产国 {超市/商店｝",
+    "halalCertificate": "清真证书",
+    "certificationExpiryDate": "认证有效期",
+    "ingredientCategory": "成分类别 ：",
+    "selectDate": "选择日期",
+    "save": "节省",
+    "constant": {
+      "Animal": "动物",
+      "Chemical": "化学",
+      "Plants": "植物",
+      "Natural": "自然",
+      "Yes": "是",
+      "No": "没有",
+      "New Ingredient": "新成分",
+      "Existing Ingredient": "现有成分",
+      "New Supplier": "新供应商"
+    },
+    "chooseIngredient": "选择成分"
+  },
+  "commonIngredient": {
+    "listOfIngredient": "配料表",
+    "searchProduct": "搜索产品",
+    "search": "搜索",
+    "reset": "重置",
+    "no": "没有",
+    "product": "产品",
+    "name&AddressOfManufacturer": "制造商名称和地址",
+    "halalStatus": "清真身份",
+    "action": "行动",
+    "select": "选择",
+    "expiringDate": "到期日 ："
+  },
+  "ingredientDetail": {
+    "name": "名称",
+    "scientificName": "学名",
+    "ingredientSource": "成分来源",
+    "manufaturerName": "制造商名称",
+    "manufacturerAddress": "制造商地址",
+    "manufacturerCountry": "制造商 国家",
+    "halalCertificate": "清真证书",
+    "certificationExpiryDate": "证书到期日",
+    "category": "类别"
+  },
+  "validation": {
+    "name": {
+      "required": "请输入成分名称",
+      "max": "成分名称最多 150 个字符"
+    },
+    "manufacturerName": {
+      "required": "请输入制造商名称",
+      "max": "制造商名称最多 150 个字符"
+    },
+    "scientificName": {
+      "required": "请输入学名",
+      "max": "学名最多 150 个字符"
+    },
+    "manufacturerAddress": {
+      "required": "请输入制造商地址",
+      "max": "制造商地址最多 150 个字符"
+    },
+    "manufacturerCountry": {
+      "required": "选择原料生产国"
+    },
+    "certificateExpiryDate": {
+      "required": "请选择成分证书有效期"
+    },
+    "category": {
+      "required": "请选择成分类别"
+    }
+  }
+}

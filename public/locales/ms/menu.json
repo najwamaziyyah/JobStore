@@ -1,0 +1,31 @@
+{
+  "menus": {
+    "no": "Tidak",
+    "menuName": "Nama Menu",
+    "description": "Deskripsi",
+    "action": "Tindakan",
+    "addMenu": "Tambah Menu",
+    "editMenu": "Kemaskini Menu",
+    "submit": "Hantar",
+    "edit": "Kemaskini",
+    "cancel": "Kembali",
+    "menuList": "Senarai Menu",
+    "yes": "Ya",
+    "areYouSure": "Adakah anda pasti mahu memadamkan rekod ini?",
+    "delete": "Padam",
+    "menuAddedSuccessfully": "Menu berjaya ditambahkan!",
+    "menuUpdatedSuccessfully": "Menu berjaya dikemas kini!",
+    "errorOccurred": "Ralat berlaku. Sila cuba lagi nanti",
+    "menuDeletedSuccessfully": "Menu berjaya dipadamkan",
+    "failedToDeleteMenu": "Gagal memadamkan menu"
+  },
+  "validation": {
+    "name": {
+      "required": "Sila isikan nama menu ",
+      "max": "Panjang maksimum nama menu adalah 150 patah perkataan"
+    },
+    "description": {
+      "max": "Panajng maksimum mesej adalah 300 patah perkataan"
+    }
+  }
+}

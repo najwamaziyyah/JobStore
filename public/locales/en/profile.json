@@ -1,0 +1,21 @@
+{
+  "profile": {
+    "profiles": "Account Details",
+    "profileInformation": "Profile Information",
+    "updateProfile": "Update your account's profile information and email address",
+    "name": "Merchant's Name",
+    "email": "Email",
+    "save": "Save",
+    "updateUserSuccessful": "Update user successfully!",
+    "updateFailed": "Update failed. Please try again."
+  },
+  "updatePassword": {
+    "updatePasswords": "Update Password",
+    "updatePasswordReminder": "Ensure your account is using a long, random password to stay secure.",
+    "currentPassword": "Current Password",
+    "newPassword": "New Password",
+    "confirmNewPassword": "Confirm New Password",
+    "updatePasswordSuccesfully": "Update password succesfully!",
+    "updatePasswordFailed": "Update password failed. Please try again."
+  }
+}

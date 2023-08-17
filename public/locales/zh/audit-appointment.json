@@ -1,0 +1,20 @@
+{
+  "auditAppointment": "审计任命",
+  "addAuditAppointmentSuccessfully": "成功添加审计预约！",
+  "addedError": "发生错误。请稍后再试",
+  "yup": {
+    "dateTime": "请选择预约日期",
+    "address": "请输入您的餐厅地址",
+    "restaurantPersonInCharge": "请输入您的餐厅负责人",
+    "phone": "请输入餐厅负责人的电话号码",
+    "officerInCharge": "请输入负责人"
+  },
+  "appointmentDate": "预约日期",
+  "address": "地址",
+  "restaurantPersonInCharge": "餐厅负责人",
+  "contactNumber": "联系电话",
+  "officerInCharge": "MFW 负责官员",
+  "button": {
+    "save": "节省"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "auditAppointment": "Audit Appointment",
+  "addAuditAppointmentSuccessfully": "Audit appointment added successfully!",
+  "addedError": "Error occurred. Please try again later",
+  "yup": {
+    "dateTime": "Please select an appointment date",
+    "address": "Please enter your restaurant address",
+    "restaurantPersonInCharge": "Please enter your restaurant person in charge",
+    "phone": "Please enter the phone number of your restaurant person in charge",
+    "officerInCharge": "Please enter the officer in charge"
+  },
+  "appointmentDate": "Appointment Date",
+  "address": "Address",
+  "restaurantPersonInCharge": "Restaurant Person in Charge",
+  "contactNumber": "Contact Number",
+  "officerInCharge": "MFW Officer in Charge",
+  "button": {
+    "save": "Save"
+  }
+}

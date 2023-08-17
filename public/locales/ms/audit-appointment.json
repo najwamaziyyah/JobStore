@@ -1,0 +1,20 @@
+{
+  "auditAppointment": "Janji Temu Audit",
+  "addAuditAppointmentSuccessfully": "Janji Temu Audit berjaya ditambah!",
+  "addedError": "Ralat berlaku. Sila cuba sebentar lagi",
+  "yup": {
+    "dateTime": "Sila pilih tarikh janji temu",
+    "address": "Sila masukkan alamat restoran anda",
+    "restaurantPersonInCharge": "Sila masukkan orang yang bertanggungjawab di restoran anda",
+    "phone": "Sila masukkan nombor telefon orang yang bertanggungjawab di restoran anda",
+    "officerInCharge": "Sila masukkan pegawai yang bertanggungjawab"
+  },
+  "appointmentDate": "Tarikh Janji Temu",
+  "address": "Alamat",
+  "restaurantPersonInCharge": "Orang Bertanggungjawab Restoran",
+  "contactNumber": "Nombor Telefon",
+  "officerInCharge": "MFW Pegawai yang Bertanggungjawab",
+  "button": {
+    "save": "Simpan"
+  }
+}
